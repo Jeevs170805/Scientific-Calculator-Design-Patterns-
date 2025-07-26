@@ -19,5 +19,3 @@ Decorator Pattern: Layer functions like Log, Sin, Cos dynamically on results
 
 ✅ Clean OOP structure with extensibility in mind
 
-#### 1. Calculator UI
-![Calculator UI](https://github.com/Jeevs170805/Scientific-Calculator-Design-Pattern/blob/main/Screenshots/ui.png?raw=true)
